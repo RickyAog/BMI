@@ -27,5 +27,10 @@ public class Main {
 
         System.out.println("Well " + usersName + "your BMI is " + (Weight / Feet *Inches));
         System.out.println("Thank for stopping by and ask your friends if they want to calculate their BMI");
+
+
+
+
+
     }
 }
